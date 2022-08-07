@@ -1,0 +1,2 @@
+# plastiks-staking
+Staking
